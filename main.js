@@ -15,7 +15,7 @@ received is an even number.
 HINT: Use the modulo operator (%) Google it! 😊
 ******************************************************************************/
 
-const oddOrEven = () => {
+export const oddOrEven = () => {
   //your code here
 };
 
@@ -31,7 +31,7 @@ Example: "This is cool" should return "THIS IS COOL!"
 
 ******************************************************************************/
 
-function makeMeLoud() {
+export function makeMeLoud() {
   //your code here
 }
 
@@ -56,7 +56,7 @@ The function should return:
 
 ******************************************************************************/
 
-const greeter = () => {
+export const greeter = () => {
   //your code here
 };
 
@@ -74,7 +74,7 @@ Example 2: ["One", "Two", "Three", "Four", "Five", "Six"] should return
 ["Two", "Three", "Four", "Five"]
 ******************************************************************************/
 
-function arrayTrimmer() {
+export function arrayTrimmer() {
   //your code here
 }
 
@@ -97,7 +97,7 @@ Example3: "   hard        " should return "fun"
 
 ******************************************************************************/
 
-const cleanAndFun = () => {
+export const cleanAndFun = () => {
   //your code here
 };
 
@@ -121,7 +121,7 @@ Use array methods to do the following:
  Return the resulting array.
 ******************************************************************************/
 
-function marvelEditor() {
+export function marvelEditor() {
   //your code here
 }
 
@@ -152,7 +152,7 @@ Return "😎Primitive values only😎"
 
 ******************************************************************************/
 
-function coolMaker() {
+export function coolMaker() {
   //your code here
 }
 
@@ -179,21 +179,6 @@ Example3: (["One", "Two", "Three"], "Four") --> ["One", "Two", "Three", "Four"]
 Example4: (["One", "Two", "Three"], "Two") --> ["One", "Three"]
 ******************************************************************************/
 
-const addOrRemove = () => {
+export const addOrRemove = () => {
   //your code here
-};
-
-/******************************************************************************
-⬇️ FOR TESTING - DON'T TOUCH ⬇️
-******************************************************************************/
-
-export {
-  oddOrEven,
-  makeMeLoud,
-  greeter,
-  arrayTrimmer,
-  cleanAndFun,
-  marvelEditor,
-  coolMaker,
-  addOrRemove
 };
