@@ -92,7 +92,18 @@ Once you have managed to make all tasks pass, make a final commit and deliver th
 
 ## References
 
+- [StackBlitz]
+  
+  An Web Based IDE, VS Code like in your browser
+
 - [NodeJS]
 
+  A collection of tools and binaries for running JavaScript outside of the browser (on your computer)
+
+- [React]
+
+  A library (a collection of functions) for simplifying modifying and managing HTML & CSS via JavaScript
+
+[StackBlitz]: https://stackblitz.com/
 [NodeJS]: https://nodejs.org/en
 [React]: https://react.dev/
