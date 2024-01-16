@@ -4,6 +4,22 @@ Functions and Methods assignment
 Read the assignment text CAREFULLY. Do NOT change the name of any of the
 functions in this assignment, it will disable the automated unit testing.
 
+0.
+
+Complete the function below:
+
+Return true from this function to see how the testing works
+
+Read the terminal output before and after to see the difference
+
+******************************************************************************/
+
+export function start() {
+  //your code here
+  // return true
+};
+
+/******************************************************************************
 1.
 
 Complete the function below:
